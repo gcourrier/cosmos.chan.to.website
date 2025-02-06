@@ -1,0 +1,11 @@
+{
+  "name": "cosmos-channel-website",
+  "version": "1.0.0",
+  "description": "A simple website to display an Cosmos channel's content.",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
